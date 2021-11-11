@@ -7,3 +7,13 @@ const JSX = <div>
 <li>JS</li>
 </ul>
 </div>;
+
+
+//OR
+const myDiv = (
+<div>
+ <h1>
+  Hello world
+ </h1>
+</div>
+);
