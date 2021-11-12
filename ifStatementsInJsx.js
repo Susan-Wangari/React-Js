@@ -21,3 +21,4 @@ if(coinToss() === 'heads') {
 ReactDOM.render(img, document.getElementById('app'));
 //insert jsx in javascript not the other way
   //jsx cannot transpile if statements
+//uses a coin toss conditional which if its heads it displays a kitten picture and if tails a puppy picture
